@@ -1,3 +1,20 @@
+/*
+Create a class Student having data members admissionno, name, course and fees. Create a constructor to initialize data of a student. Create setter functions to modify the data in the data members where required. Create getter functions to return the value in the data members.
+
+Create two references for two instances of Student class
+reference r with sample data having admissionno as 2017bcs1101, name as Rohit Sharma, course as B.Tech. (CSE) and fees as 145000
+reference s with sample data having admissionno as 2017bec1009, name as Suresh Verma, course as B.Tech. (ECE) and fees as 140000
+
+Show the output as follows
+
+Rohit Sharma from B.Tech. (CSE) having admission number 2017bcs1101 has paid fees Rs. 145000
+Suresh Verma from B.Tech. (ECE) having admission number 2017bec1009 has paid fees Rs. 140000
+
+Update the course of Rohit Sharma to B.Tech. (ME) and fees to 135000 and show the new output
+
+Rohit Sharma from B.Tech. (ME) having admission number 2017bcs1101 has paid fees Rs. 135000
+*/
+
 #include<iostream>
 #include<string.h>
 using namespace std;
