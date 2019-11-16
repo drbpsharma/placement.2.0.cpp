@@ -6,6 +6,11 @@ This repository contains all the programs given in the special book published by
 
 Students are advised to clone the repository to their local drives, compile and run them for quick learning before attempting any assignment.
 
+Suggestions and queries are welcome.
+
 Yours
 
 Prof. (Dr.) Bhuvneshwar Prasad Sharma
+Email: bpsharma@gmail.com
+
+
