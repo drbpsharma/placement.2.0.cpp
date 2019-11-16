@@ -13,6 +13,7 @@ Yours
 Prof. (Dr.) Bhuvneshwar Prasad Sharma
 
 Email: bpsharma@gmail.com
-URL: bpsharma.me
+
+URL: http://www.bpsharma.me
 
 
