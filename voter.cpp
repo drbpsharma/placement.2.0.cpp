@@ -1,3 +1,5 @@
+//Write a program to input name and age of a person and check it to be valid voter.
+
 #include<iostream>
 using namespace std;
 main()
